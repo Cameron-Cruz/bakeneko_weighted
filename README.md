@@ -14,6 +14,14 @@ All screw holes are tapped M2 holes.
 Holes on the weight are countersunk 90 degrees.
 I used M2x4 countersunk screws for the weight and M2x3 hex screws for the daughterboard.
 
+# Plate
+
+Universal 60% plate
+
+# Daughterboard
+
+ai03 universal daughterboard
+
 # PCB
 
 If you want to see PCB files, head over to kkatano's github.
